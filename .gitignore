@@ -1,17 +1,28 @@
+# Python
 __pycache__/
 *.pyc
 *.pyo
 *.pyd
+
+# Virtual environment
 venv/
 env/
-*.env
+
+# IDE settings
 .idea/
 .vscode/
+
+# Application logs
 logs/
 *.log
+
+# Swap files
 *.swp
+
+# Configuration files
 *.config
 .env
-__pycache__/
+
+# Distribution folders
 dist/
 build/
